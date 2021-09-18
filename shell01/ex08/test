@@ -1,4 +1,4 @@
 #!/bin/bash
 
-VAR=`echo "hello"`
-echo $VAR
+test=$FT_NBR1
+echo $test
