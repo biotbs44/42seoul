@@ -1,4 +1,0 @@
-#!/bin/bash
-
-test=$FT_NBR1
-echo $test
