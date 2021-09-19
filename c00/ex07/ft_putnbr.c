@@ -2,10 +2,16 @@
 
 void	ft_putnbr(int nb)
 {
-	char	str[13] = {'\0'};
+	char	str[13];	
 	int		idx;
+	int		i;
 
+	i = 0;
 	idx = 0;
+	while (i < 13)
+	{
+		str[i++] = '\0';
+	}
 	while (nb != 0)
 	{
 		str[idx++] = (nb % 10) + 48;
