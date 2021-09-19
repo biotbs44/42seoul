@@ -1,5 +1,1 @@
-.DS_Store
-mywork.c-
-mynote.txt
-temp/
-.swp
+*.swap
