@@ -1,1 +1,1 @@
-ls -tr -p | tr "\n", "," | rev | cut -c 2- | rev
+ls -tr -p | tr "\n", "," 
