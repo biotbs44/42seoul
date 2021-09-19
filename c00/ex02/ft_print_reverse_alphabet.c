@@ -3,7 +3,7 @@
 void	ft_print_reverse_alphabet(void)
 {
 	char	c;
-	
+
 	c = 122;
 	while (c >= 97)
 	{

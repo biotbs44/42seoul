@@ -3,7 +3,7 @@
 void	ft_print_alphabet(void)
 {
 	char	c;
-	
+
 	c = 97;
 	while (c <= 122)
 	{
@@ -11,4 +11,3 @@ void	ft_print_alphabet(void)
 		c++;
 	}
 }
-	
